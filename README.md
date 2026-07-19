@@ -1,16 +1,30 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Karan%20Kavthankar&fontSize=55&fontColor=7DD3FC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%94%20MERN%20%7C%20C%2B%2B%20%7C%20DSA&descAlignY=55&descSize=20&descColor=DCEFFB)
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Karan%20Kavthankar&fontSize=55&fontColor=7DD3FC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%94%20MERN%20%7C%20C%2B%2B%20%7C%20DSA&descAlignY=55&descSize=20&descColor=DCEFFB"
+    width="100%"
+    alt="Header"
+  />
+</p>
 
+```this section is reserved for adding skills in future..........```
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+in+C%2B%2B;CS+Student+%40+KITCOEK" alt="Typing SVG" />
-
-![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-2ea44f?style=for-the-badge)
-![Roles](https://img.shields.io/badge/-Full%20Stack%20%2F%20Software%20Developer%20Roles-1a1a1a?style=for-the-badge)
-
+<!--This is reserved```-->
 </div>
+
+<!--This is Open to work part where u can add your desired job positions -->
+
+<!-- This will NOT appear in the preview -->
+<br/>
 
 ---
 
+
+
+
+
+<!--This is the Intro section in which u can add your intro achivements etc.......(24 to 45 line)-->
 ### 👨‍💻 Who I Am
 
 ```typescript
@@ -31,9 +45,16 @@ const karan = {
   openTo: ["Internships", "Full-time SDE Roles", "Hackathon Teams"],
 };
 ```
-
+<!--END-->
 ---
 
+
+
+
+
+
+
+<!--Add your tool stack here like frontend backend etc.... (47 to 65 line)-->
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -51,34 +72,53 @@ const karan = {
 **Databases**
 
 ![Skills](https://skillicons.dev/icons?i=mongodb,mysql)
+<!--End-->
+---
 
 ---
 
-### 📊 GitHub Stats
+## 🐍 Contributions Snake
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/KaranKavthankar/KaranKavthankar/output/github-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/KaranKavthankar/KaranKavthankar/output/github-snake.svg" />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/KaranKavthankar/KaranKavthankar/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karankavthankar&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karankavthankar&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=karankavthankar&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=karankavthankar&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karankavthankar&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true)
+<a href="https://www.linkedin.com/in/karank23">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-### 🤝 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karank23)
+```bash
+karan@github:~$ echo "Thanks for Visiting!"
+Thanks for Visiting!
+
+karan@github:~$ status
+✔ Building...
+✔ Learning...
+✔ Improving...
+```
 
 </div>
 
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=120&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:203A43,100:0F2027"/>
