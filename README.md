@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+in+C%2B%2B;CS+Student+%40+KITCOEK" alt="Typing SVG" />
 
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-1a1a1a?style=for-the-badge)
-![Roles](https://img.shields.io/badge/FULL%20STACK%20%2F%20SOFTWARE%20DEVELOPER%20ROLES-1a1a1a?style=for-the-badge&color=203a43)
+![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-2ea44f?style=for-the-badge)
+![Roles](https://img.shields.io/badge/-Full%20Stack%20%2F%20Software%20Developer%20Roles-1a1a1a?style=for-the-badge)
 
 </div>
 
