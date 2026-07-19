@@ -5,11 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+in+C%2B%2B;CS+Student+%40+KITCOEK" alt="Typing SVG" />
 
 ![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-1a1a1a?style=for-the-badge)
-![Roles](https://img.shields.io/badge/INTERNSHIPS%20%2F%20FULL--TIME%20SDE%20ROLES-1a1a1a?style=for-the-badge&color=203a43)
-
-![Profile Views](https://komarev.com/ghpvc/?username=karankavthankar&color=7dd3fc&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karank23)
-![Followers](https://img.shields.io/github/followers/karankavthankar?color=7dd3fc&style=flat-square&label=Followers)
+![Roles](https://img.shields.io/badge/FULL%20STACK%20%2F%20SOFTWARE%20DEVELOPER%20ROLES-1a1a1a?style=for-the-badge&color=203a43)
 
 </div>
 
