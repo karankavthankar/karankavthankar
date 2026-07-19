@@ -1,12 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=200&section=header&text=Karan%20Kavthankar&fontSize=50&animation=twinkling&fontColor=FFFFFF)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Karan%20Kavthankar&fontSize=55&fontColor=7DD3FC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%94%20MERN%20%7C%20C%2B%2B%20%7C%20DSA&descAlignY=55&descSize=20&descColor=DCEFFB)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+in+C%2B%2B;CS+Student+%40+KITCOEK" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+in+C%2B%2B;CS+Student+%40+KITCOEK" alt="Typing SVG" />
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Recruiters%20Only-7DD3FC?style=for-the-badge&labelColor=000000)
+![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-1a1a1a?style=for-the-badge)
+![Roles](https://img.shields.io/badge/INTERNSHIPS%20%2F%20FULL--TIME%20SDE%20ROLES-1a1a1a?style=for-the-badge&color=203a43)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=karankavthankar&color=7dd3fc&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karank23)
 ![Followers](https://img.shields.io/github/followers/karankavthankar?color=7dd3fc&style=flat-square&label=Followers)
 
 </div>
